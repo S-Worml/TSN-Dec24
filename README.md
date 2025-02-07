@@ -1,3 +1,3 @@
-# TSN-Dec24
-This is my test for the software development course 
-Hello, this is a test to see how github works there is not much to say other than adding a few lines to see if there are any differences in the document 
+# Hello Welcome to my Coding Portfolio
+Currently planning a few projects to make my worklife easier including a piece of code that would schedule employees into shift patterns depending on availability and contractual obligations 
+Also planning to create an app that provides the user with a different daily experience on opening it hoping to encourage repeat useage hoping to generate a small income from the sale of ad space within this. 
